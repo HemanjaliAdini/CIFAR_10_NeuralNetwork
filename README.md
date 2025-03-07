@@ -102,10 +102,3 @@ By pursuing these improvements, this project aims to advance the accuracy and ef
 
 ---
 
-
-
-# Write the README.md file
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("README.md has been created successfully!")
