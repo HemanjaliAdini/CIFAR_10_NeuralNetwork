@@ -1,4 +1,4 @@
-readme_content = """# **Neural Network Architecture Report**
+# **Neural Network Architecture Report**
 ### **Student Name:** Hemanjali Adini  
 ### **Student Number:** 220721646  
 ### **Module Identifier:** ECS659P/ECS7026P  
@@ -102,9 +102,7 @@ By pursuing these improvements, this project aims to advance the accuracy and ef
 
 ---
 
-## **License**
-📜 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-"""
+
 
 # Write the README.md file
 with open("README.md", "w", encoding="utf-8") as f:
